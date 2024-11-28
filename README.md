@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=verhovensky)
 
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) 
+![](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 
 <!--
